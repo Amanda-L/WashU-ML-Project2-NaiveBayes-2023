@@ -1,6 +1,6 @@
 # Project 2: Naive Bayes
 
-The Naïve Bayes classifier is being implemented for this assignment, and the tasks are outlined as follow:
+The Naïve Bayes classifier is being implemented for this assignment, and the tasks are outlined as follows:
 
 1. **naivebayesPY.py:**
    - Implement the function to estimate the class probability P(Y).
@@ -11,14 +11,14 @@ The Naïve Bayes classifier is being implemented for this assignment, and the ta
    - This uses a categorical distribution as the model.
    - Utilize array operations in numpy instead of for loops.
 
-3.  **naivebayes.py:**
+3. **naivebayes.py:**
    - Solve for the log ratio using Bayes Rule.
    - Implemented the calculation of log ratio in this file.
 
 4. **naivebayesCL.py:**
    - Implement the Naïve Bayes as a linear classifier.
 
-5.  **classifyLinear.py:**
+5. **classifyLinear.py:**
    - Implement the `classifyLinear.py` function that applies a linear weight vector and bias to a set of input vectors and outputs their predictions.
 
 Testing:
