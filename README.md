@@ -32,4 +32,4 @@ Testing:
 Once implemented, I tested the overall performance of the Naïve Bayes classifier and its interactive name classification using `whoareyou.py`.
 
 
-View 02NaiveBayes.html for detailed instructions on the assignment.
+View 02NaiveBayes.html under Instructions folder for detailed instructions on the assignment.
