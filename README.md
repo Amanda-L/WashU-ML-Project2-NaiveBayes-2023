@@ -26,7 +26,7 @@ Testing:
 - Train Naïve Bayes using `naivebayesCL(x, y)`.
 - Use the trained model to predict on the training set and calculate training error.
 
-(f) **whoareyou.py:**
+6. **whoareyou.py:**
    - Implement the `whoareyou.py` function to test names interactively using the trained Naïve Bayes model.
 
 Once implemented, I tested the overall performance of the Naïve Bayes classifier and its interactive name classification using `whoareyou.py`.
