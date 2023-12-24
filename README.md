@@ -38,9 +38,10 @@ In a script:
 
 w,b = `naivebayesCL(xTr,yTr)`
 
-`whoareyou`(w,b)
+`whoareyou(w,b)`
 
 In the terminal:
+
 Who are you>David
 
 log( ) P(Y=1|X)
@@ -56,4 +57,4 @@ Anne, I am sure you are a nice girl.
 Who are you>byebye
 
 
-View 02NaiveBayes.html under Instructions folder for detailed instructions on the assignment.
+Note: View 02NaiveBayes.html under Instructions folder for detailed instructions on the assignment.
