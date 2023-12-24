@@ -1,4 +1,6 @@
 # Project 2: Naive Bayes
+![image](https://github.com/Amanda-L/WashU-ML-Project2-NaiveBayes-2023/assets/52643725/82d65194-2b62-4da3-998d-79136926ffea)
+
 
 The Naïve Bayes classifier is being implemented for this assignment, and the tasks are outlined as follows:
 
