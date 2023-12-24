@@ -34,16 +34,25 @@ Testing:
 Once implemented, I tested the overall performance of the Naïve Bayes classifier and its interactive name classification using `whoareyou.py`.
 In a script:
 
-xTr,yTr = genTrainFeatures()
-w,b = naivebayesCL(xTr,yTr)
-whoareyou(w,b)
+`xTr`,`yTr` = `genTrainFeatures()`
+
+w,b = `naivebayesCL(xTr,yTr)`
+
+`whoareyou`(w,b)
+
 In the terminal:
 Who are you>David
+
 log( ) P(Y=1|X)
+
 P(Y=−1|X)
+
 David, I am sure you are a nice boy.
+
 Who are you>Anne
+
 Anne, I am sure you are a nice girl.
+
 Who are you>byebye
 
 
