@@ -2,23 +2,23 @@
 
 The Naïve Bayes classifier is being implemented for this assignment, and the tasks are outlined as follow:
 
-(a) **naivebayesPY.py:**
+1. **naivebayesPY.py:**
    - Implement the function to estimate the class probability P(Y).
    - This returns the probability of a sample in the training set being positive or negative, regardless of its features.
 
-(b) **naivebayesPXY.py:**
+2. **naivebayesPXY.py:**
    - Implement the function to estimate conditional probabilities P(X|Y).
    - This uses a categorical distribution as the model.
    - Utilize array operations in numpy instead of for loops.
 
-(c) **naivebayes.py:**
+3.  **naivebayes.py:**
    - Solve for the log ratio using Bayes Rule.
    - Implemented the calculation of log ratio in this file.
 
-(d) **naivebayesCL.py:**
+4. **naivebayesCL.py:**
    - Implement the Naïve Bayes as a linear classifier.
 
-(e) **classifyLinear.py:**
+5.  **classifyLinear.py:**
    - Implement the `classifyLinear.py` function that applies a linear weight vector and bias to a set of input vectors and outputs their predictions.
 
 Testing:
