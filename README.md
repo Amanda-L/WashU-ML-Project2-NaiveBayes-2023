@@ -1,5 +1,7 @@
 # ML Project 2: Naive Bayes
 ![image](https://github.com/Amanda-L/WashU-ML-Project2-NaiveBayes-2023/assets/52643725/82d65194-2b62-4da3-998d-79136926ffea)
+
+
 View 02NaiveBayes.html under Instructions folder for detailed instructions on the assignment.
 
 The Naïve Bayes classifier is being implemented to predict if a name is male or female for this assignment, and the files edited are outlined as follows:
