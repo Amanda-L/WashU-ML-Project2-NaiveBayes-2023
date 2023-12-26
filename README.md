@@ -32,16 +32,18 @@ Testing:
    - Implement to test names interactively using the trained Naïve Bayes model.
 
 Once implemented, I tested the overall performance of the Naïve Bayes classifier and its interactive name classification using `whoareyou.py`.
+
 In a script:
 ```
-`xTr`,`yTr` = `genTrainFeatures()`
+xTr, yTr = genTrainFeatures()
 
-w,b = `naivebayesCL(xTr,yTr)`
+w,b = naivebayesCL(xTr,yTr)
 
-`whoareyou(w,b)`
+whoareyou(w,b)
+```
 
 In the terminal:
-
+```
 Who are you>David
 
 log( ) P(Y=1|X)
